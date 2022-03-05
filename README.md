@@ -12,13 +12,13 @@ coverY: 0
 **Flantic** is a multi-purpose bot.Flantic provides a variety of feature set compared to other Premium Discord Bots.
 {% endhint %}
 
-💠 **Invite tracking**
+・**Security**
 
-💠 **Advanced Verification**
+・**Music**
 
-💠 **Customisable join/leave messages with embeds**
+・**Selfroles**
 
-💠 **Auto-refresh leaderboard**
+・**Tickets**
 
 ![Invite Management](https://i.imgur.com/1ELlK1Z.png)
 
