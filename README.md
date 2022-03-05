@@ -20,16 +20,14 @@ coverY: 0
 
 ・**Tickets**
 
-![Invite Management](https://i.imgur.com/1ELlK1Z.png)
-
-## Add the bot to your own server
+## Invite Flantic
 
 Click the links below to add the bot and join our support server
 
-{% embed url="https://dsc.gg/invi" %}
-Invite link of the bot
+{% embed url="https://dsc.gg/flantic" %}
+Add to server
 {% endembed %}
 
-{% embed url="https://dsc.gg/invi-support" %}
-Official Support Server of the bot
+{% embed url="https://discord.gg/flantic" %}
+Support server
 {% endembed %}
