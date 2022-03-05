@@ -1,6 +1,6 @@
 ---
 description: About the bot
-cover: .gitbook/assets/Amin.jpg
+cover: .gitbook/assets/1.jpg
 coverY: 0
 ---
 
