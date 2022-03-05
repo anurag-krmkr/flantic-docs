@@ -1,6 +1,5 @@
 ---
 description: About Flantic
-cover: .gitbook/assets/698a540028c8605245643b4bde5f0854.jpg
 coverY: 0
 ---
 
