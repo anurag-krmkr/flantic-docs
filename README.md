@@ -9,7 +9,7 @@ coverY: 0
 ## Features
 
 {% hint style="info" %}
-**Invite Management** is a bot that can help you manage your server's invites by tracing each join and keeping track of invite counts. It also has a plethora of handy utility features.
+**Flantif** is a multi-purpose bot.Flantic provides a variety of feature set compared to other Premium Discord Bots.
 {% endhint %}
 
 💠 **Invite tracking**
