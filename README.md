@@ -9,7 +9,7 @@ coverY: 0
 ## Features
 
 {% hint style="info" %}
-**Flantif** is a multi-purpose bot.Flantic provides a variety of feature set compared to other Premium Discord Bots.
+**Flantic** is a multi-purpose bot.Flantic provides a variety of feature set compared to other Premium Discord Bots.
 {% endhint %}
 
 💠 **Invite tracking**
