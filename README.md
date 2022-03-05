@@ -1,6 +1,6 @@
 ---
 description: About the bot
-cover: .gitbook/assets/1.jpg
+cover: .gitbook/assets/1.png
 coverY: 0
 ---
 
