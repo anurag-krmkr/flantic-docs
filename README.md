@@ -1,5 +1,5 @@
 ---
-description: About the bot
+description: About Flantic
 cover: .gitbook/assets/1.png
 coverY: 0
 ---
