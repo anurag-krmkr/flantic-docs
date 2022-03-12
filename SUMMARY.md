@@ -1,29 +1,28 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Basic Setup](SETUP.md)
-* [FAQ](FAQ.md)
-* [Premium](premium.md)
+* [🏠 Introduction](README.md)
 
-## 🎉 Features
+## 📘 Useful Guides <a href="#guides" id="guides"></a>
 
-* [Main features](features/main-features.md)
-* [Utility features](features/utility-features.md)
+* [Greet](guides/greet.md)
+* [Configurations](guides/config.md)
+* [How to use timedif](guides/how-to-use-timedif.md)
 
-## 🤖 Commands
+## 📗 Commands
 
-* [Config](commands/config.md)
-* [General](commands/general.md)
-* [Invites](commands/invites.md)
-* [Utility](commands/utility.md)
+* [Win Message](commands/win-message.md)
+* [Claim Time](commands/claim-time.md)
+* [Triggers](commands/triggers.md)
+* [Giveaways](commands/giveaways.md)
+* [Meta / Misc](commands/meta-misc.md)
+* [Utilities](commands/utilities.md)
 
-## 🔗 Links
+***
 
-* [Invite me](links/invite-me.md)
-* [Support](links/support.md)
-* [Bot lists](links/bot-lists.md)
+* [Support Server](https://discord.gg/CQsfW5pb2e)
+* [Vote For The Bot](https://top.gg/bot/824119071556763668)
 
-## 📑 Terms and conditions
+## Important
 
-* [Terms of service](terms/TOS.md)
-* [Privacy policy](terms/privacy-policy.md)
+* [Terms of Service](important/terms-of-service.md)
+* [Privacy Policy](important/privacy-policy.md)
