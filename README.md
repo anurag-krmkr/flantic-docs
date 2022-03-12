@@ -28,5 +28,5 @@ Support server
 {% endembed %}
 
 {% hint style="info" %}
-The default prefix for Apollo is `a!`. To change it, use the `a!prefix set` command.
+The default prefix for Flantic is `?`. To change it, use the `?prefix` command.
 {% endhint %}
