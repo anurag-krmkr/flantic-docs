@@ -12,16 +12,11 @@ coverY: 0
 **Flantic** is a multi-purpose bot.Flantic provides a variety of feature set compared to other Premium Discord Bots.
 {% endhint %}
 
-・**Security**
+## Getting Started
 
-・**Music**
+Here's how to get started with Flantic.
 
-・**Selfroles**
-
-・**Tickets**
-
-## Invite Flantic
-
+### Invite 
 Click the links below to add the bot and join our support server
 
 {% embed url="https://dsc.gg/flantic" %}
