@@ -31,3 +31,7 @@ Add to server
 {% embed url="https://discord.gg/flantic" %}
 Support server
 {% endembed %}
+
+{% hint style="info" %}
+The default prefix for Apollo is `a!`. To change it, use the `a!prefix set` command.
+{% endhint %}
